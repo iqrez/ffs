@@ -1,0 +1,64 @@
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.exe
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.deps.json
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.runtimeconfig.json
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\Nefarius.ViGEm.Client.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.AssemblyReference.cache
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.MainForm.resources
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.GenerateResource.cache
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfoInputs.cache
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfo.cs
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.CoreCompileInputs.cache
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouse.9D998162.Up2Date
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\refint\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.genruntimeconfig.cache
+C:\Users\IQRez.YUI\Downloads\RawMouseToXbox360_FinalBuild\RawMouseToXbox360\obj\Debug\net6.0-windows\ref\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.exe
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.deps.json
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.runtimeconfig.json
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\Nefarius.ViGEm.Client.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.AssemblyReference.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.MainForm.resources
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.GenerateResource.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfoInputs.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfo.cs
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.CoreCompileInputs.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouse.9D998162.Up2Date
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\refint\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.genruntimeconfig.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360\obj\Debug\net6.0-windows\ref\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.exe
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.deps.json
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.runtimeconfig.json
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\Nefarius.ViGEm.Client.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.AssemblyReference.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfoInputs.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.AssemblyInfo.cs
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.csproj.CoreCompileInputs.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouse.9D998162.Up2Date
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\refint\RawMouseToXbox360.dll
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.pdb
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\RawMouseToXbox360.genruntimeconfig.cache
+C:\Users\IQRez.YUI\Pictures\RawMouseToXbox360 (2)\RawMouseToXbox360\obj\Debug\net6.0-windows\ref\RawMouseToXbox360.dll
